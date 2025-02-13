@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jogo-da-velha-danki/static/css/main.230e678e.css",
+    "main.js": "/jogo-da-velha-danki/static/js/main.a984394e.js",
+    "static/js/453.65f5db50.chunk.js": "/jogo-da-velha-danki/static/js/453.65f5db50.chunk.js",
+    "index.html": "/jogo-da-velha-danki/index.html",
+    "main.230e678e.css.map": "/jogo-da-velha-danki/static/css/main.230e678e.css.map",
+    "main.a984394e.js.map": "/jogo-da-velha-danki/static/js/main.a984394e.js.map",
+    "453.65f5db50.chunk.js.map": "/jogo-da-velha-danki/static/js/453.65f5db50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.230e678e.css",
+    "static/js/main.a984394e.js"
+  ]
+}
